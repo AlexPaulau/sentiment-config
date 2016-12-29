@@ -1,1 +1,1 @@
-# musicStore-config
+# sentiment-config
